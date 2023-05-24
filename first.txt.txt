@@ -8,3 +8,4 @@ print("Addition=",c);
 print ("Substraction = ",d);
 print ("Multiplication = ",e);
 print("Division = ",f);
+print("Mathematical problems");
