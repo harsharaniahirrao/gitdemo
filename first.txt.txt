@@ -9,3 +9,5 @@ print ("Substraction = ",d);
 print ("Multiplication = ",e);
 print("Division = ",f);
 print("Mathematical problems");
+
+changes done by B user
