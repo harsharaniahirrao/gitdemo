@@ -10,4 +10,6 @@ print ("Multiplication = ",e);
 print("Division = ",f);
 print("Mathematical problems");
 
-changes done by B user
+#updating by B user 
+int x = a%b;
+print("Modulus = ",x);
