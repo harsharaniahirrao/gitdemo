@@ -1,3 +1,2 @@
 this is my second code of github
-
-second line updating
+this is my second line
